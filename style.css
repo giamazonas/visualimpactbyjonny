@@ -19,4 +19,33 @@ Text Domain: visual-impact
   text-decoration: none;
 }
 
+/* Full-bleed + bold sections */
+.vi-bleed { width: 100%; }
+.vi-hero { padding: 5rem 0; border-bottom: 1px solid #e5e5e5; }
+.vi-kicker { letter-spacing: .08em; text-transform: uppercase; font-size: .85rem; opacity: .8; margin: 0 0 .75rem; }
+.vi-h1 { font-size: 2.5rem; line-height: 1.08; margin: 0 0 1rem; }
+.vi-lead { max-width: 70ch; font-size: 1.05rem; margin: 0 0 1.5rem; }
+
+.vi-actions { display: flex; gap: 1rem; flex-wrap: wrap; margin-top: .25rem; }
+.vi-btn { display:inline-block; padding:.85rem 1.1rem; border-radius:10px; text-decoration:none; border:1px solid #111; background: transparent; }
+.vi-btn--ghost { border-color:#e5e5e5; }
+
+.vi-blockgrid { display:grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 1rem; }
+.vi-block { display:block; padding: 2rem; border-radius: 14px; border:1px solid #e5e5e5; text-decoration:none; }
+.vi-block strong { display:block; font-size: 1.1rem; margin-bottom: .35rem; }
+.vi-block span { opacity: .85; }
+
+.vi-feed { border-top: 1px solid #e5e5e5; }
+.vi-feed-row { padding: 2rem 0; border-bottom: 1px solid #e5e5e5; }
+
+.vi-mixed { display:grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 1rem; }
+.vi-card { border:1px solid #e5e5e5; border-radius: 14px; padding: 1.25rem; }
+
+.vi-signup { border:1px solid #e5e5e5; border-radius: 14px; padding: 1.5rem; }
+.vi-label { display:block; font-weight: 650; margin-bottom: .75rem; }
+.vi-row { display:flex; gap:.75rem; flex-wrap: wrap; }
+.vi-input { flex: 1; min-width: 220px; padding:.85rem 1rem; border-radius: 10px; border:1px solid #e5e5e5; }
+.vi-help { margin: .75rem 0 0; font-size: .9rem; opacity: .75; }
+
+
 
