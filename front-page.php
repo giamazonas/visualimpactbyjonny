@@ -8,13 +8,13 @@
       <p class="vi-kicker">Multi-discipline visual mastery</p>
       <h1 class="vi-h1">Visual Impact</h1>
       <p class="vi-lead">
-        Photo, video, drone, and editing—built as one continuous content engine
+        Photo, video, drone, and editing, built as one continuous content engine
         that helps your brand look undeniable.
       </p>
 
       <div class="vi-actions">
         <a class="vi-btn" href="#join">Join the List</a>
-        <a class="vi-btn vi-btn--ghost" href="<?php echo esc_url(home_url('/work')); ?>">View Work</a>
+        <a class="vi-btn vi-btn--ghost" href="<?php echo esc_url(home_url('/portfolio')); ?>">View Work</a>
       </div>
     </div>
   </section>
