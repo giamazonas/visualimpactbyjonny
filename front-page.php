@@ -24,16 +24,16 @@
     <div class="vi-wrap">
       <div class="vi-blockgrid">
         <a class="vi-block" href="<?php echo esc_url(home_url('/photography')); ?>">
-          <strong>Photography</strong><span>Portrait • Brand • Product</span>
+          <strong>Photography</strong><span>Portrait - Brand - Product</span>
         </a>
         <a class="vi-block" href="<?php echo esc_url(home_url('/videography')); ?>">
-          <strong>Videography</strong><span>Reels • Promos • Events</span>
+          <strong>Videography</strong><span>Reels - Promos - Events</span>
         </a>
         <a class="vi-block" href="<?php echo esc_url(home_url('/drone')); ?>">
-          <strong>Drone</strong><span>Aerial • Real estate • Venues</span>
+          <strong>Drone</strong><span>Aerial - Real estate - Venues</span>
         </a>
         <a class="vi-block" href="<?php echo esc_url(home_url('/media-editing')); ?>">
-          <strong>Media Editing</strong><span>Color • Cuts • Delivery</span>
+          <strong>Media Editing</strong><span>Color - Cuts - Delivery</span>
         </a>
       </div>
     </div>

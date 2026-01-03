@@ -47,5 +47,23 @@ Text Domain: visual-impact
 .vi-input { flex: 1; min-width: 220px; padding:.85rem 1rem; border-radius: 10px; border:1px solid #e5e5e5; }
 .vi-help { margin: .75rem 0 0; font-size: .9rem; opacity: .75; }
 
+/* About page visual intro (Brasil colors placeholder) */
+.vi-about-hero { border-bottom: 1px solid #e5e5e5; }
+
+.vi-about-visual {
+  margin-top: 1.5rem;
+  height: 220px;
+  border-radius: 16px;
+  border: 1px solid #e5e5e5;
+  background:
+    linear-gradient(90deg,
+      #009b3a 0%,
+      #009b3a 34%,
+      #ffdf00 34%,
+      #ffdf00 67%,
+      #002776 67%,
+      #002776 100%);
+}
+
 
 
